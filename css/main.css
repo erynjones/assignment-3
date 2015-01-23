@@ -17,6 +17,27 @@ ol {
   padding: 0
 }
 
+a {
+  color: purple;
+}
+
+a:hover {
+  color: white;
+}
+
 h2 {
   color: midnightblue;
+}
+
+blockquote {
+  text-align: center;
+}
+
+.cite {
+  text-align: right;
+}
+
+em {
+  color: purple;
+  font-style: italics;
 }
