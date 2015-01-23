@@ -31,6 +31,8 @@ h2 {
 
 blockquote {
   text-align: center;
+  font-weight: normal;
+  font-size: 1.25rem;
 }
 
 .cite {
